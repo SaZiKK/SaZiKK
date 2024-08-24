@@ -2,9 +2,10 @@
 
 It's SaZiKK here!
 
-I am a sophomore majoring in Computer Science and I'm planning to pursue a Ph.D. degree！
-
-- 🔭 I’m currently working on my own kernel: chaos
+- 🏔️ I'm a sophomore majoring in Computer Science  at USTB (University of Sicence and Technology Beijing).
+- 🧑‍🎓 I'm planning to pursue a Ph.D. degree！
+- 🚀 I'm a OIer and ACMer.
+- 🔭 I’m currently working on my own kernel: chaos.
 - 🌱 I'm currently delving deep into operating systems, focusing on:
   - Kernel architecture and design principles
   - Process management
@@ -29,6 +30,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Wakatime 💻
 
 <!--START_SECTION:waka-->
 
