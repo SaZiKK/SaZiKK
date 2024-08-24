@@ -2,7 +2,7 @@
 
 It's SaZiKK here!
 
-- 🏔️ I'm a sophomore majoring in Computer Science  at USTB (University of Sicence and Technology Beijing).
+- 🏔️ I'm a sophomore majoring in Computer Science  at USTB (University of Science and Technology Beijing).
 - 🧑‍🎓 I'm planning to pursue a Ph.D. degree！
 - 🚀 I'm a OIer and ACMer.
 - 🔭 I’m currently working on my own kernel: chaos.
