@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+It's SaZiKK here!
+
 I am a sophomore majoring in Computer Science and I'm planning to pursue a Ph.D. degree！
 
 - 🔭 I’m currently working on my own kernel: chaos
