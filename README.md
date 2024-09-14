@@ -2,8 +2,8 @@
 
 It's SaZiKK here!
 
-- 🏔️ I'm a sophomore majoring in Computer Science  at USTB (University of Science and Technology Beijing).
-- 🧑‍🎓 I'm planning to pursue a Ph.D. degree！
+- 🏔️ I'm a Junior majoring in Computer Science  at USTB (University of Science and Technology Beijing).
+- 🧑‍🎓 I'm planning to pursue a Ph.D. degree in the field of operating systems！
 - 🚀 I'm a OIer and ACMer.
 - 🔭 I’m currently working on my own UNIX-like kernel: chaos.
 - 🌱 I'm currently delving deep into operating systems, focusing on:
@@ -12,6 +12,7 @@ It's SaZiKK here!
   - Memory management techniques, including virtual memory systems
   - Device drivers and hardware interfaces
   - System calls and kernel-user space interaction
+- 🍀 I'm looking to try some learning and work in the field of compilers.
 - 📫 How to reach me: ck_look@outlook.com
 - 😄 To learn more about me: https://sazikk.github.io/
 
