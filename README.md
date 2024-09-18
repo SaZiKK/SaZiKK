@@ -37,15 +37,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2024 - To: 15 September 2024
+From: 17 August 2024 - To: 16 September 2024
 
-Total Time: 20 hrs 5 mins
+Total Time: 15 hrs 40 mins
 
-Rust       14 hrs 24 mins  █████████████████▓░░░░░░░   71.06 %
-Markdown   3 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
-Assembly   55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-YAML       39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-TOML       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Rust       10 hrs 50 mins  █████████████████░░░░░░░░   68.64 %
+Markdown   2 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
+Assembly   55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+YAML       39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+C          24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
