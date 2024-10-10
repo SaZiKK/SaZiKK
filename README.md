@@ -5,7 +5,7 @@ It's SaZiKK here!
 - 🏔️ I'm a Junior majoring in Computer Science  at USTB (University of Science and Technology Beijing).
 - 🧑‍🎓 I'm planning to pursue a Ph.D. degree in the field of operating systems！
 - 🚀 I'm a OIer and ACMer.
-- 🔭 I’m currently working on my own UNIX-like kernel: chaos.
+- 🔭 I’m currently working on a simple DB： miniob.
 - 🌱 I'm currently delving deep into operating systems, focusing on:
   - Kernel architecture and design principles
   - Process management
