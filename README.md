@@ -37,15 +37,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2024 - To: 12 November 2024
+From: 14 October 2024 - To: 13 November 2024
 
-Total Time: 90 hrs 36 mins
+Total Time: 87 hrs 55 mins
 
-C++           85 hrs 36 mins  ███████████████████▒░░░░░   77.92 %
-Other         19 hrs 14 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
-Markdown      1 hr 57 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-Makefile      37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Python        28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+C++           81 hrs 32 mins  ███████████████████░░░░░░   76.13 %
+Other         19 hrs 10 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
+Markdown      1 hr 57 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+V             1 hr 55 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Python        28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
