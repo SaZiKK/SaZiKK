@@ -10,8 +10,6 @@ It's SaZiKK here!
   - Kernel architecture and design principles
   - Process management
   - Memory management techniques
-  - Device drivers and hardware interfaces
-  - System calls and kernel-user space interaction
 - 🍀 I'm looking to try some learning and work in the field of compilers.
 - 📫 How to reach me: ck_look@outlook.com
 - 😄 To learn more about me: https://sazikk.github.io/
