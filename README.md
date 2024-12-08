@@ -35,15 +35,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2024 - To: 05 December 2024
+From: 06 November 2024 - To: 06 December 2024
 
-Total Time: 75 hrs 29 mins
+Total Time: 75 hrs 53 mins
 
-V            51 hrs 11 mins  █████████████████░░░░░░░░   67.56 %
-C++          11 hrs 46 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
-Assembly     9 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
-Markdown     2 hrs 42 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-YAML         23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+V            51 hrs 11 mins  ████████████████▓░░░░░░░░   67.19 %
+C++          10 hrs 37 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
+Assembly     9 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+Markdown     3 hrs 55 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+YAML         23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
