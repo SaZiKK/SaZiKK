@@ -12,7 +12,7 @@ It's SaZiKK here!
   - Memory management techniques
 - 🍀 I'm looking to try some learning and work in the field of compilers.
 - 📫 How to reach me: ck_look@outlook.com
-- 😄 To learn more about me: https://sazikk.github.io/
+- 😄 To learn more about me: https://sazikk.top
 
   
 <!--
