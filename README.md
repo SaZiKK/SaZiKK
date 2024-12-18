@@ -35,14 +35,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2024 - To: 15 December 2024
+From: 16 November 2024 - To: 16 December 2024
 
-Total Time: 76 hrs 33 mins
+Total Time: 76 hrs 14 mins
 
-V             48 hrs 18 mins  ██████████████▓░░░░░░░░░░   59.28 %
-Assembly      9 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
-Markdown      7 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
-Other         4 hrs 55 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+V             48 hrs 18 mins  ███████████████░░░░░░░░░░   59.35 %
+Assembly      9 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+Markdown      8 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+Other         5 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
 Java          3 hrs 48 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
 ```
 
