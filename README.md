@@ -35,15 +35,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2024 - To: 20 January 2025
+From: 23 December 2024 - To: 22 January 2025
 
-Total Time: 13 hrs 27 mins
+Total Time: 13 hrs 5 mins
 
-Other         5 hrs 22 mins   ███████░░░░░░░░░░░░░░░░░░   28.53 %
-Markdown      3 hrs 41 mins   █████░░░░░░░░░░░░░░░░░░░░   19.60 %
-Text          2 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
-C             2 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
-XML           1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+Other         5 hrs 22 mins   ███████▒░░░░░░░░░░░░░░░░░   29.11 %
+Markdown      3 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
+Text          2 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
+C             2 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
+XML           1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
 ```
 
 <!--END_SECTION:waka-->
