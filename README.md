@@ -35,14 +35,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2025 - To: 16 February 2025
+From: 18 January 2025 - To: 17 February 2025
 
-Total Time: 41 mins
+Total Time: 1 hr 53 mins
 
-Markdown   25 mins         ███████████░░░░░░░░░░░░░░   44.02 %
-Other      16 mins         ███████░░░░░░░░░░░░░░░░░░   27.94 %
-C          16 mins         ███████░░░░░░░░░░░░░░░░░░   27.91 %
-Kconfig    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Markdown   1 hr 28 mins    █████████████████▒░░░░░░░   68.73 %
+C          24 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
+Other      16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+Kconfig    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
