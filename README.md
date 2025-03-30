@@ -6,11 +6,7 @@ It's SaZiKK here!
 - 🧑‍🎓 I'm planning to pursue a Ph.D. degree in the field of operating systems！
 - 🚀 I'm a OIer and ACMer.
 - 🔭 I’m currently working on a simple compiler.
-- 🌱 I'm currently delving deep into operating systems, focusing on:
-  - Kernel architecture and design principles
-  - Process management
-  - Memory management techniques
-- 🍀 I'm looking to try some learning and work in the field of compilers.
+- 🌱 I'm currently delving deep into operating systems.
 - 📫 How to reach me: ck_look@outlook.com
 - 😄 To learn more about me: https://sazikk.top
 
