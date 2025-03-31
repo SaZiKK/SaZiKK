@@ -31,15 +31,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2025 - To: 28 March 2025
+From: 27 February 2025 - To: 29 March 2025
 
-Total Time: 48 hrs 53 mins
+Total Time: 45 hrs 29 mins
 
-Markdown      28 hrs 25 mins  ██████████████▒░░░░░░░░░░   57.13 %
-Rust          16 hrs 2 mins   ████████░░░░░░░░░░░░░░░░░   32.22 %
-C             1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Objective-C   58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Other         52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Markdown      28 hrs 8 mins   ███████████████▒░░░░░░░░░   60.95 %
+Rust          12 hrs 56 mins  ███████░░░░░░░░░░░░░░░░░░   28.05 %
+C             1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Objective-C   58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Other         40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
