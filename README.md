@@ -31,15 +31,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 March 2025 - To: 10 April 2025
+From: 12 March 2025 - To: 11 April 2025
 
-Total Time: 27 hrs 22 mins
+Total Time: 25 hrs 30 mins
 
-Markdown      18 hrs 56 mins  █████████████████░░░░░░░░   68.53 %
-C++           4 hrs 57 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
-Rust          59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-C             42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-C#            39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Markdown      18 hrs 56 mins  ██████████████████▒░░░░░░   73.54 %
+C++           4 hrs 57 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
+C#            39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+JSON          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Assembly      14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
