@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 April 2025 - To: 02 May 2025
+From: 03 April 2025 - To: 03 May 2025
 
-Total Time: 27 hrs 6 mins
+Total Time: 27 hrs 5 mins
 
-C++           19 hrs 21 mins  █████████████████▓░░░░░░░   70.38 %
+C++           19 hrs 21 mins  █████████████████▓░░░░░░░   70.43 %
 YAML          1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
 Makefile      1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-Markdown      1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Markdown      1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 HTML          56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
