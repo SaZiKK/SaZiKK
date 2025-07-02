@@ -31,15 +31,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2025 - To: 29 June 2025
+From: 01 June 2025 - To: 01 July 2025
 
-Total Time: 52 hrs 57 mins
+Total Time: 59 hrs 1 min
 
-Markdown      17 hrs 35 mins  ████████▒░░░░░░░░░░░░░░░░   32.71 %
-Rust          16 hrs 46 mins  ███████▓░░░░░░░░░░░░░░░░░   31.18 %
-C             6 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-TeX           5 hrs 41 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
-Python        1 hr 42 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Markdown      17 hrs 47 mins  ███████▒░░░░░░░░░░░░░░░░░   29.71 %
+Rust          16 hrs 46 mins  ███████░░░░░░░░░░░░░░░░░░   28.02 %
+C             12 hrs 36 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.08 %
+TeX           5 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+Python        1 hr 42 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
