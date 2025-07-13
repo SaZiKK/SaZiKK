@@ -31,15 +31,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2025 - To: 10 July 2025
+From: 11 June 2025 - To: 11 July 2025
 
-Total Time: 41 hrs 22 mins
+Total Time: 39 hrs 41 mins
 
-Markdown           17 hrs 16 mins  ██████████▒░░░░░░░░░░░░░░   41.19 %
-C                  12 hrs 48 mins  ███████▓░░░░░░░░░░░░░░░░░   30.53 %
-Rust               6 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
-Makefile           1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-Bash               48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Markdown           16 hrs 19 mins  ██████████░░░░░░░░░░░░░░░   40.59 %
+C                  12 hrs 48 mins  ████████░░░░░░░░░░░░░░░░░   31.83 %
+Rust               5 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+Makefile           1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Bash               48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
