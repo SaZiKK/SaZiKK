@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2025 - To: 16 November 2025
+From: 18 October 2025 - To: 17 November 2025
 
-Total Time: 9 hrs 5 mins
+Total Time: 9 hrs 4 mins
 
-C                  5 hrs 39 mins   ███████████████░░░░░░░░░░   60.21 %
-Bash               1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
-Markdown           1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-SSH Config         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+C                  5 hrs 38 mins   ███████████████░░░░░░░░░░   60.17 %
+Bash               1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
+Markdown           1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+SSH Config         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
 Other              17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
 ```
 
