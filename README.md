@@ -2,11 +2,11 @@
 
 It's SaZiKK here!
 
-- 🏔️ I'm a Junior majoring in Computer Science  at USTB (University of Science and Technology Beijing).
+- 🏔️ I'm a Senior majoring in Computer Science at USTB (University of Science and Technology Beijing).
 - 🧑‍🎓 I'm planning to pursue a Ph.D. degree in the field of operating systems！
 - 🚀 I'm a OIer and ACMer.
-- 🔭 I’m currently working on a simple compiler.
-- 🌱 I'm currently delving deep into operating systems.
+- 🌱 I've been accepted into the ICT！
+- 🔭 I am currently studying and researching distributed applications and RDMA.
 - 📫 How to reach me: ck_look@outlook.com
 - 😄 To learn more about me: https://sazikk.top
 
