@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2025 - To: 17 December 2025
+From: 18 November 2025 - To: 18 December 2025
 
-Total Time: 3 hrs 6 mins
+Total Time: 3 hrs 14 mins
 
-Markdown   2 hrs 42 mins   █████████████████████▒░░░   85.41 %
-Bash       17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-Mason      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-Other      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Markdown   2 hrs 50 mins   █████████████████████▒░░░   85.99 %
+Bash       17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+Mason      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Other      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
