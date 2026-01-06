@@ -31,15 +31,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2025 - To: 03 January 2026
+From: 05 December 2025 - To: 04 January 2026
 
-Total Time: 5 hrs 33 mins
+Total Time: 6 hrs 17 mins
 
-Markdown          3 hrs 20 mins   ██████████▒░░░░░░░░░░░░░░   40.99 %
-Other             2 hrs 36 mins   ████████░░░░░░░░░░░░░░░░░   31.91 %
-Mason             53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-PHP               27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Singularity       25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Markdown          4 hrs 2 mins    ███████████▒░░░░░░░░░░░░░   45.45 %
+Other             2 hrs 36 mins   ███████▒░░░░░░░░░░░░░░░░░   29.31 %
+Mason             53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+PHP               27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Singularity       25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
 ```
 
 <!--END_SECTION:waka-->
