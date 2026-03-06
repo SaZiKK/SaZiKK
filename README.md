@@ -31,15 +31,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2026 - To: 03 March 2026
+From: 03 February 2026 - To: 05 March 2026
 
-Total Time: 5 hrs 40 mins
+Total Time: 4 hrs 12 mins
 
-Other                2 hrs 12 mins         ███████░░░░░░░░░░░░░░░░░░   28.08 %
-Python               1 hr 38 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
-Bash                 59 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
-Singularity          53 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-Markdown             38 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+Python        1 hr 35 mins          ████████▓░░░░░░░░░░░░░░░░   35.07 %
+Bash          50 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
+Singularity   40 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
+Markdown      38 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
+Other         20 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
 ```
 
 <!--END_SECTION:waka-->
