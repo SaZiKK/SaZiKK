@@ -31,14 +31,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2026 - To: 11 March 2026
+From: 10 February 2026 - To: 12 March 2026
 
-Total Time: 1 hr 23 mins
+Total Time: 1 hr 28 mins
 
-Markdown      1 hr 4 mins           ███████████████████▒░░░░░   77.26 %
-Singularity   13 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
-SSH Config    5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-JSON          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Markdown      1 hr 4 mins           ██████████████████░░░░░░░   72.33 %
+Singularity   13 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
+SSH Config    11 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
 ```
 
 <!--END_SECTION:waka-->
