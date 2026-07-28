@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2026 - To: 25 July 2026
+From: 26 June 2026 - To: 26 July 2026
 
-Total Time: 48 hrs 21 mins
+Total Time: 48 hrs 20 mins
 
 C             17 hrs 23 mins        ████████▓░░░░░░░░░░░░░░░░   34.69 %
 Python        8 hrs 23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
