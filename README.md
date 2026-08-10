@@ -31,15 +31,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 July 2026 - To: 07 August 2026
+From: 09 July 2026 - To: 08 August 2026
 
-Total Time: 51 hrs 18 mins
+Total Time: 49 hrs 32 mins
 
-C             19 hrs 17 mins        █████████░░░░░░░░░░░░░░░░   35.59 %
-Python        8 hrs 50 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
-Markdown      5 hrs 28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-Text          5 hrs 2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-TeX           3 hrs 20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+C             17 hrs 37 mins        ████████▒░░░░░░░░░░░░░░░░   33.63 %
+Python        8 hrs 50 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
+Markdown      5 hrs 28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+Text          5 hrs 2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+TeX           3 hrs 20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
 ```
 
 <!--END_SECTION:waka-->
