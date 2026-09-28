@@ -31,15 +31,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2026 - To: 25 September 2026
+From: 27 August 2026 - To: 26 September 2026
 
-Total Time: 33 hrs 19 mins
+Total Time: 29 hrs 12 mins
 
-C            7 hrs 57 mins         █████░░░░░░░░░░░░░░░░░░░░   20.53 %
-Markdown     7 hrs 39 mins         █████░░░░░░░░░░░░░░░░░░░░   19.75 %
-Other        5 hrs 26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-Bash         4 hrs 25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
-Python       3 hrs 45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+C            7 hrs 8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.66 %
+Markdown     6 hrs 5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
+Other        5 hrs 20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
+Bash         3 hrs 47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Python       3 hrs 31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
 ```
 
 <!--END_SECTION:waka-->
